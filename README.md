@@ -5,3 +5,7 @@ The bitrate ladder is represented as {235, 375, 560, 750, 1050, 1750, 2350, 3000
 Each chunk is encoded as 4 seconds. During the trans-coding process, for each video, we measure VMAF, VMAF-4K and VMAF-phone metric with the reference resolution of 1920 × 1080 respectively. In general, the dataset contains 86 complete videos, with 394,551 video chunks and 1,578,204 video quality assessments.
 
 For more details please check './tools/'.
+
+# Full Dataset
+
+Full video dataset can be downloaded in [here](https://cloud.tsinghua.edu.cn/d/2213c1cfd8b843faa848/).
